@@ -419,5 +419,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/judypn/proprietary/vendor/usr/keylayout/goodix_fp_key.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/goodix_fp_key.kl
 
 PRODUCT_PACKAGES += \
+    bdwlan_bdwlan_symlink \
+    bdwlan_ch0_bdwlan_ch0_symlink \
+    bdwlan_ch1_bdwlan_ch1_symlink \
     libc++_shared_snpe_libc++_shared_symlink32 \
     libc++_shared_snpe_libc++_shared_symlink64
