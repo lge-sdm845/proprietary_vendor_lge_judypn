@@ -81,17 +81,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/judypn/proprietary/vendor/etc/wifi/GLOBAL/bdwlan.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/GLOBAL/bdwlan.bin \
     vendor/lge/judypn/proprietary/vendor/etc/wifi/GLOBAL/bdwlan_ch0.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/GLOBAL/bdwlan_ch0.bin \
     vendor/lge/judypn/proprietary/vendor/etc/wifi/GLOBAL/bdwlan_ch1.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/GLOBAL/bdwlan_ch1.bin \
-    vendor/lge/judypn/proprietary/vendor/etc/wifi/KR_ALL/bdwlan.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/KR_ALL/bdwlan.bin \
-    vendor/lge/judypn/proprietary/vendor/etc/wifi/KR_ALL/bdwlan_ch0.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/KR_ALL/bdwlan_ch0.bin \
-    vendor/lge/judypn/proprietary/vendor/etc/wifi/KR_ALL/bdwlan_ch1.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/KR_ALL/bdwlan_ch1.bin \
-    vendor/lge/judypn/proprietary/vendor/etc/wifi/NA_ALL/bdwlan.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/NA_ALL/bdwlan.bin \
-    vendor/lge/judypn/proprietary/vendor/etc/wifi/NA_ALL/bdwlan_ch0.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/NA_ALL/bdwlan_ch0.bin \
-    vendor/lge/judypn/proprietary/vendor/etc/wifi/NA_ALL/bdwlan_ch1.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/NA_ALL/bdwlan_ch1.bin \
     vendor/lge/judypn/proprietary/vendor/etc/wifi/aoa_cldb_falcon.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/aoa_cldb_falcon.bin \
     vendor/lge/judypn/proprietary/vendor/etc/wifi/aoa_cldb_swl14.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/aoa_cldb_swl14.bin \
-    vendor/lge/judypn/proprietary/vendor/etc/wifi/bdwlan.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bdwlan.bin \
-    vendor/lge/judypn/proprietary/vendor/etc/wifi/bdwlan_ch0.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bdwlan_ch0.bin \
-    vendor/lge/judypn/proprietary/vendor/etc/wifi/bdwlan_ch1.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bdwlan_ch1.bin \
     vendor/lge/judypn/proprietary/vendor/ffu/FFUSAMSUNG_KLUDG4U1EA-B0C1_0500.bin:$(TARGET_COPY_OUT_VENDOR)/ffu/FFUSAMSUNG_KLUDG4U1EA-B0C1_0500.bin \
     vendor/lge/judypn/proprietary/vendor/ffu/FFUTOSHIBA_THGAF8G9T43BAIRB_0300.bin:$(TARGET_COPY_OUT_VENDOR)/ffu/FFUTOSHIBA_THGAF8G9T43BAIRB_0300.bin \
     vendor/lge/judypn/proprietary/vendor/firmware/CAMERA_ICP.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.elf \
