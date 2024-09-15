@@ -376,8 +376,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/judypn/proprietary/vendor/lib64/libfastcvdsp_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfastcvdsp_stub.so \
     vendor/lge/judypn/proprietary/vendor/lib64/libgf_algo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_algo.so \
     vendor/lge/judypn/proprietary/vendor/lib64/libgf_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_hal.so \
-    vendor/lge/judypn/proprietary/vendor/lib64/liblgawb_main.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblgawb_main.so \
-    vendor/lge/judypn/proprietary/vendor/lib64/liblgdnn.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblgdnn.so \
     vendor/lge/judypn/proprietary/vendor/lib64/libmmcamera_faceproc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmcamera_faceproc.so \
     vendor/lge/judypn/proprietary/vendor/lib64/libmmcamera_faceproc2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmcamera_faceproc2.so \
     vendor/lge/judypn/proprietary/vendor/lib64/libscveBlobDescriptor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libscveBlobDescriptor.so \
